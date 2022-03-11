@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/barrington/Cascade/github/Cascade-Plugin-Examples/Asset-Factory-Plugins/AssetFieldsPlugins/assetfactory-plugin-6.10.jar"/>
+	<classpathentry kind="lib" path="/Users/barrington/Cascade/github/Cascade-Plugin-Examples/Asset-Factory-Plugins/AssetFieldsPlugins/cascade-api-6.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
